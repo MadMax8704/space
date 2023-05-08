@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-image: url('assets/destination/background-destination-desktop.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+nav  :nth-child(2) {
+    border-bottom: 2px solid white;
+    line-height: 90px;
+    margin-bottom: -2px;
+}
+
+.text-color-white {
+    color: white;
+}
+
+.font-bell {
+    font-family: 'Bellefair', serif;
+}
+
+.font-barlow {
+    font-family: 'Barlow Condensed', sans-serif;
+
+}
